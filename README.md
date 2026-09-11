@@ -4,7 +4,7 @@ This is a simple React application where users can explore different web technol
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * React
 * JavaScript
